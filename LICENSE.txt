@@ -1,4 +1,4 @@
-Copyright (c) 2022 - 2024 Brenton James Maddocks BEng(CompSys).  All rights reserved.
+Copyright (c) 2022 Brenton James Maddocks BEng(CompSys).  All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are not permitted. All provisions require expressed 
